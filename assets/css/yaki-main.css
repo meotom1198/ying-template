@@ -141,7 +141,7 @@ body {
     min-height: 100%;
     color: #444;
     font-family: "Dosis", Arial, Helvetica, sans-serif;
-    cursor: url(/usr/themes/Ying/img/default.cur),default;
+    cursor: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/default.cur),default;
 }
 a {
     color: rgb(41, 151, 247);
@@ -262,12 +262,12 @@ button {
     background: #fff;
     position: fixed;
     z-index: 3;
-    background-image: url(/usr/themes/Ying/img/header.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/header.png);
 }
 #header{
         padding: .5rem 0;
         z-index: 100;
-       background-image: url(/usr/themes/Ying/img/header.png);
+       background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/header.png);
 }
 .headnav {
     display: flex;
@@ -862,7 +862,7 @@ float: right;
     width: 150px;
     height: 150px;
     content: "";
-    background-image: url(../../img/moon.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/moon.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -873,7 +873,7 @@ float: right;
     width: 150px;
     height: 150px;
     content: "";
-    background-image: url(../../img/sun.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/sun.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -3040,7 +3040,7 @@ float: right;
     box-sizing: border-box;
 }
 a, button, img {
-    cursor: url(/usr/themes/Ying/img/pointer.cur),default!important;
+    cursor: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/pointer.cur),default!important;
 }
 .qiuqiu {
     content: " ";
