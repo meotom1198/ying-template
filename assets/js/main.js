@@ -485,7 +485,7 @@ if ($(".OwO").length > 0) {
         logo: "OωO表情",
         container: document.getElementsByClassName("OwO")[0],
         target: document.getElementsByClassName("OwO-textarea")[0],
-        api: "/usr/themes/Ying/assets/OwO/OwO.json",
+        api: "https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/assets/OwO/OwO.json",
         position: "down",
         width: "100%",
         maxHeight: "250px"
