@@ -149,7 +149,7 @@ particlesJS("particles-js", {
                 nb_sides: 5
             },
             image: {
-                src: "img/github.svg",
+                src: "https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/github.svg",
                 width: 100,
                 height: 100
             }
@@ -531,7 +531,7 @@ $("#creatposter").click(function() {
 });
 
 function loadPoster() {
-    $('#poster').append('<div class="loadgif-box "><div class="load-gif wh-100"><img class="gif-icon" src="/usr/themes/Ying/img/poster.gif" /><span class="info-text">Đang tạo bìa...</span></div></div>');
+    $('#poster').append('<div class="loadgif-box "><div class="load-gif wh-100"><img class="gif-icon" src="https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/poster.gif" /><span class="info-text">Đang tạo bìa...</span></div></div>');
 }
 
 function createPoster() {
@@ -560,7 +560,7 @@ function createPoster() {
 };
 
 function loadMask() {
-    $('body').append('<div class="poster-load"><div class="loadgif-box "><div class="load-gif wh-100"><img class="gif-icon" src="/usr/themes/Ying/img/poster.gif" /><span class="info-text">Đang tạo bìa...</span></div></div></div>');
+    $('body').append('<div class="poster-load"><div class="loadgif-box "><div class="load-gif wh-100"><img class="gif-icon" src="https://cdn.jsdelivr.net/gh/meotom1198/ying-template@ea0be10dac97e29d4df7ab664cb3d99d37569b1a/img/poster.gif" /><span class="info-text">Đang tạo bìa...</span></div></div></div>');
 }
 
 function makeCode() {
