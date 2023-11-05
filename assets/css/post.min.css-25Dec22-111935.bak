@@ -1077,7 +1077,7 @@ ol li {
 }
 
 .icon-360 {
-    background-image: url(./icon/UA/360.png)
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template@be74b3712e34898645225bae08d5240199517073/assets/icon/UA/360.png)
 }
 
 .icon-android {
