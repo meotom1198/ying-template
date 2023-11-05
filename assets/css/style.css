@@ -553,7 +553,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav a:before {
     content: ' ';
-    background-image: url(../../img/left-arrow.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template/img/left-arrow.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -561,7 +561,7 @@ html[xmlns] .flexslider .slides {
     display: block;
 }
 .flex-direction-nav a.flex-next:before {
-    background-image: url(../../img/right-arrow.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/meotom1198/ying-template/img/right-arrow.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
